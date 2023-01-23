@@ -104,7 +104,7 @@ footer{
 
 .picto{
     position: absolute;
-    color: black;
+    color: rgb(255, 255, 255);
     top: 28%;
     left: 8%;
     width: 30pt;
@@ -117,7 +117,7 @@ footer{
      
     margin:5vw;
     width: 200pt;
-    height:200pt;
+    height:100pt;
 
     position:relative;
     flex: 0 1 20vw;
