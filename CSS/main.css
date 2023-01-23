@@ -95,10 +95,20 @@ footer{
 .cerclePicto{
     border-radius: 4vw;
     background-color: rgb(116, 100, 236); 
-
+    position: relative;
+    text-align: center;
     width: 35pt;
     height:35pt;
 
+}
+
+.picto{
+    position: absolute;
+    color: black;
+    top: 28%;
+    left: 8%;
+    width: 30pt;
+    height:30pt;
 }
 
 .carreCours{
