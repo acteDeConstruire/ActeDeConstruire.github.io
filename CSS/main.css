@@ -92,6 +92,15 @@ footer{
     justify-content: center;
 }
 
+.cerclePicto{
+    border-radius: 4vw;
+    background-color: rgb(116, 100, 236); 
+
+    width: 35pt;
+    height:35pt;
+
+}
+
 .carreCours{
     border-radius: 4vw;
     background-color: rgb(255, 221, 0);  
