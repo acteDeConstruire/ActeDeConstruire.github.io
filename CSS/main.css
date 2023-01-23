@@ -71,6 +71,7 @@ footer{
     height:clamp(20pt,12vw,200pt);
 
     position:relative;
+    display: flex;
     
 }
 
